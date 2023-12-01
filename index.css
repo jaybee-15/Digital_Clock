@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    font-family: system-ui;
+    background: linear-gradient(coral, #331515);
+    color: white;
+    text-align: center;
+}
+#clock{
+    padding-bottom: 30px;
+    color: #0fb40a;
+    font-size: 100px;
+}
+#clocks{
+    color: #0fb40a;
+    font-size: 100px;
+}
+p{
+    padding-top: 20px;
+    font-size: larger;
+}
